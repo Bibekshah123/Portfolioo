@@ -1,9 +1,9 @@
-# 🚀 Dhirendra Singh Dhami - Portfolio Website
+# 🚀 Bibek Shah- Portfolio Website
 
-Welcome to the repository for my personal **portfolio website**! This site showcases my work, skills, and experiences in UI/UX, cybersecurity, digital marketing, and web development.
+Welcome to the repository for my personal **portfolio website**! 
 
-## 🌐 Live Demo
-[Visit My Portfolio](https://dhiren.foo)
+<!-- ## 🌐 Live Demo
+[Visit My Portfolio](https://dhiren.foo) -->
 
 
 ## 🛠️ Tech Stack
@@ -12,9 +12,8 @@ Welcome to the repository for my personal **portfolio website**! This site showc
 - **Netlify** (for hosting & deployment)
 
 ## 📩 Contact
-📧 Email: dhirendraxd@gmail.com  
-🌐 LinkedIn: [Dhirendra Singh Dhami](https://www.linkedin.com/in/dhirendrasingh-dhami-204797285/)  
-🐦 Twitter: [@dhirenxd](https://twitter.com/dhirenxd)  
+📧 Email: bibekshah995@gmail.com  
+🌐 LinkedIn: [Bibek Shah](https://www.linkedin.com/in/bibekshah1234/)  
 
 
 ⭐ If you like this project, consider giving it a star on GitHub! ⭐
